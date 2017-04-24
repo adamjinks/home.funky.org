@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_listCompanies" value="name:c_id;datatype:int,name:c_name;datatype:string" />
+	<infoitem key="UD_listAllDates" value="name:bhDate;datatype:date" />
+	<infoitem key="UD_listBankedTypes" value="name:bhtID;datatype:int,name:bhtName;datatype:string" />
+	<infoitem key="UD_listMaxDate" value="name:MaxDate;datatype:date" />
+	<infoitem key="UD_listMinDate" value="name:MinDate;datatype:date" />
+</info>

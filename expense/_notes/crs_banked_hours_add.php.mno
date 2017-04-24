@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_bhTypes" value="name:bhtID;datatype:int,name:bhtName;datatype:string,name:bhtDescription;datatype:blob" />
+	<infoitem key="UD_listCompanies" value="name:c_id;datatype:int,name:c_name;datatype:string" />
+</info>

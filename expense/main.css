@@ -1,0 +1,35 @@
+.sitemain {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color: #000066;
+	background-color: #EEEEEE;
+	font-size: 12px;
+}
+.headings {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color: #000066;
+	background-color: #EEEEEE;
+	font-size: 14px;
+	font-weight: bold;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	color: #FF0000
+	font-style: italic;
+	text-decoration: underline;
+}
+a:link {
+	text-decoration: none;
+}.tableRowLight {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	background-color: #CCCCCC;
+}
+.tableRowDark {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color: #DDDDDD;
+	background-color: #666666;
+}.tableColumnTitle {
+	background-color: #FFFFCC;
+	font-weight: bold;
+}

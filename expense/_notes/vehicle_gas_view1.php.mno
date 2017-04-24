@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_FirstDate" value="name:MIN(v_date);datatype:date" />
+	<infoitem key="UD_LastDate" value="name:MAX(v_date);datatype:date" />
+	<infoitem key="UD_AllDates" value="name:v_date;datatype:date" />
+</info>

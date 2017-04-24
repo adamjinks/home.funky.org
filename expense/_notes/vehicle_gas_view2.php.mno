@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ViewDateRange" value="name:v_id;datatype:int,name:v_mileage;datatype:int,name:v_date;datatype:date,name:v_price;datatype:int,name:v_litres;datatype:int,name:c_id;datatype:int,name:v_comment;datatype:string" />
+</info>

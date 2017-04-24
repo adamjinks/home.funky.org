@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dataList" value="name:excID;datatype:int,name:excDate;datatype:date,name:excCompany;datatype:int,name:excType;datatype:int,name:excValue;datatype:real,name:excWorkorder;datatype:int,name:excDetail;datatype:blob,name:expType;datatype:int,name:expCompany;datatype:int" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_expTypes" value="name:extID;datatype:int,name:extName;datatype:string" />
+</info>

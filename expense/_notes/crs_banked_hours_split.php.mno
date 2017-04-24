@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_totalCurrent" value="name:totalCurrentDays;datatype:real,name:totalCurrentHours;datatype:real" />
+	<infoitem key="UD_listLieu" value="name:bhID;datatype:int,name:bhDate;datatype:date,name:bhType;datatype:int,name:bhCompany;datatype:int,name:bhTime;datatype:real,name:bhPaid;datatype:int,name:bhInfo;datatype:blob,name:bhtName;datatype:int" />
+	<infoitem key="UD_listVacation" value="name:bhID;datatype:int,name:bhDate;datatype:date,name:bhType;datatype:int,name:bhCompany;datatype:int,name:bhTime;datatype:real,name:bhPaid;datatype:int,name:bhInfo;datatype:blob,name:bhtName;datatype:int" />
+</info>
